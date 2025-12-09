@@ -1,0 +1,43 @@
+[
+    {
+        "nome_jogador": "asa",
+        "pontuacao_recorde": 1414,
+        "historico_avls": [
+            390,
+            630,
+            1044,
+            1314,
+            1414
+        ],
+        "contador_mortes": 1,
+        "record_eventos": 48,
+        "chefes_derrotados": 0,
+        "total_avls": 5
+    },
+    {
+        "nome_jogador": "buriko",
+        "pontuacao_recorde": 2233,
+        "historico_avls": [
+            180,
+            410,
+            180,
+            50,
+            390,
+            800,
+            60,
+            950,
+            994,
+            220,
+            440,
+            800,
+            1000,
+            1563,
+            1863,
+            2233
+        ],
+        "contador_mortes": 7,
+        "record_eventos": 43,
+        "chefes_derrotados": 0,
+        "total_avls": 16
+    }
+]
